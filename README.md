@@ -3,7 +3,7 @@
 ## About me 👨‍💻
  I'm 21 years old, I study:
  
-- 🌱 Computer Science student at UNIPÊ
+- 🌱 Computer Science student 
  
  I'm fascinated by technology and I love programming different solutions, I'm very interested in QA and in automated tests.
 
