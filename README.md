@@ -5,7 +5,7 @@
  
 - 🌱 Computer Science student 
  
- I'm fascinated by technology and I love programming different solutions, I'm very interested in QA and in automated tests.
+ I'm fascinated by technology and I love programming different solutions, I'm very interested in Automated tests and in Web development.
 
 <div>
   <a href="https://github.com/SidneyRoberto9">
