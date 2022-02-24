@@ -7,21 +7,30 @@
  
  I'm fascinated by technology and I love programming different solutions, I'm very interested in Automated tests and in Web development.
 
-<div>
+<div  align="left">
   <a href="https://github.com/SidneyRoberto9">
+   <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyRoberto9&layout=compact&langs_count=7&theme=monokai "/>
+   <br/>
+ 
+
   <img height="180em" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SidneyRoberto9 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyRoberto9&theme=monokai"/>
+   <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyRoberto9&layout=compact&langs_count=7&theme=monokai "/>
+   
     
 </div>
   
  <div style="display: inline_block"><br>
+  <img align="center" alt="angular" height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
+  <img align="center" alt="js" height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+  <img align="center" alt="ts" height="40" width="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 </div>
   
   ## 
