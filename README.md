@@ -11,6 +11,8 @@
   <a href="https://github.com/SidneyRoberto9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyRoberto9&layout=compact&langs_count=7&theme=monokai "/>
+  <img height="180em" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SidneyRoberto9 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyRoberto9&theme=monokai"/>
+    
 </div>
   
  <div style="display: inline_block"><br>
