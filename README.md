@@ -1,41 +1,43 @@
-# Hi i'm Sidney 👋
+Hi 👋 My name is Sidney
+=======================
 
-## About me 👨‍💻
- I'm 21 years old, I study:
- 
-- 🌱 Computer Science student 
- 
- I'm fascinated by technology and I love programming different solutions, I'm very interested in Automated tests and in FullStack development.
+Web developer
+-------------
 
-<div  align="left">
-  <a href="https://github.com/SidneyRoberto9">
-   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-   <br/>
- 
+I've been learning to code for 3 years, after changing college, I started with html, css and javascript, but I really found a passion for front-end development, but I'm also very interested in automated testing and backend, I intend to become one full stack developer.
 
-  <img height="180em" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SidneyRoberto9 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyRoberto9&theme=monokai"/>
-   <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidneyRoberto9&layout=compact&langs_count=7&theme=monokai "/>
-   
-    
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="angular" height="40" width="40" src="https://img.icons8.com/color/48/000000/angularjs.png"/> </a>
-  <img align="center" alt="js" height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-  <img align="center" alt="ts" height="40" width="40" src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-</div>
-  
-  ## 
-  
-<div> 
-  <a href="https://www.linkedin.com/in/sidney-roberto-147076145/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:sidneyrpsilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+* 🌍  I'm based in João Pessoa, PB, Brazil
+* ✉️  You can contact me at [sidneyrpsilva@gmail.com](mailto:sidneyrpsilva@gmail.com)
+* 🚀  I'm currently working on [Anime Schedule](http://www.animeschendule.fun/)
+* ⚡  I'm Computer Science student and 21 years old
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/SidneyRoberto9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Sid#9624" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sidneyroberto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SidneyRoberto9"><img src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&hide=prs,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="SidneyRoberto9's GitHub stats" /></a>
+
+<a href="http://www.github.com/SidneyRoberto9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyRoberto9&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/SidneyRoberto9"><img src="https://activity-graph.herokuapp.com/graph?username=SidneyRoberto9&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
