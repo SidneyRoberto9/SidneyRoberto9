@@ -51,3 +51,6 @@ No activity tracked
 <!-- 
 <a href="http://www.github.com/SidneyRoberto9"><img src="https://activity-graph.herokuapp.com/graph?username=SidneyRoberto9&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
+
+
+![](https://komarev.com/ghpvc/?username=SidneyRoberto9&style=for-the-badge&color=blueviolet)
