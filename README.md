@@ -39,7 +39,12 @@ I've been learning to code for 3 years, after changing college, I started with h
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript       2 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.17 %
+Java             2 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.48 %
+HTML             2 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+SQL              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+YAML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
