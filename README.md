@@ -39,12 +39,12 @@ I've been learning to code for 3 years, after changing college, I started with h
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.18 %
-JavaScript   3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-JSON         2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Bash         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-Java         1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-HTML         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+TypeScript   15 hrs 49 mins  ██████████████░░░░░░░░░░░   56.15 %
+JavaScript   3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+JSON         2 hrs 31 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Java         2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Bash         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+HTML         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
