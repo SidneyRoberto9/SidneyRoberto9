@@ -8,7 +8,6 @@ I've been learning to code for 3 years, after changing college, I started with h
 
 * 🌍  I'm based in João Pessoa, PB, Brazil
 * ✉️  You can contact me at [sidneyrpsilva@gmail.com](mailto:sidneyrpsilva@gmail.com)
-* 🚀  I'm currently working on [Anime Schedule](http://www.animeschendule.fun/)
 * ⚡  I'm Computer Science student and 21 years old
 
 ### Skills
@@ -36,18 +35,6 @@ I've been learning to code for 3 years, after changing college, I started with h
 
 <b>My GitHub Stats</b>
 
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   15 hrs 10 mins  █████████████████████░░░░   83.45 %
-Java         1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Bash         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-HTML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-```
-
-<!--END_SECTION:waka-->
 
 <a href="http://www.github.com/SidneyRoberto9"><img src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&hide=prs,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="SidneyRoberto9's GitHub stats" /></a>
 
