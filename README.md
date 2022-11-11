@@ -4,11 +4,11 @@ Hi 👋 My name is Sidney
 Web developer
 -------------
 
-I've been learning to code for 3 years, after changing college, I started with html, css and javascript, but I really found a passion for front-end development, but I'm also very interested in automated testing and backend, I intend to become one full stack developer.
+I've been learning to code for 4 years, after changing college, I started with html, css and javascript, but I really found a passion for front-end development, but I'm also very interested in automated testing and backend, I intend to become one full stack developer.
 
 * 🌍  I'm based in João Pessoa, PB, Brazil
 * ✉️  You can contact me at [sidneyrpsilva@gmail.com](mailto:sidneyrpsilva@gmail.com)
-* ⚡  I'm Computer Science student and 21 years old
+* ⚡  I'm Computer Science student and 22 years old
 
 ### Skills
 
