@@ -4,7 +4,7 @@ Hi 👋 My name is Sidney
 Web developer
 -------------
 
-I've been learning to code for 4 years, after changing college, I started with html, css and javascript, but I really found a passion for front-end development, but I'm also very interested in automated testing and backend, I intend to become one full stack developer.
+I'm a programmer with a passion for web development, with a strong emphasis on back-end development, I am currently majoring in computer science and from time to time I challenge myself to develop platforms and websites to acquire more knowledge and deepen my knowledge in the area, my goal is to one day become a reference in the area.
 
 * 🌍  I'm based in João Pessoa, PB, Brazil
 * ✉️  You can contact me at [sidneyrpsilva@gmail.com](mailto:sidneyrpsilva@gmail.com)
