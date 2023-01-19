@@ -30,9 +30,12 @@ I'm a programmer with a passion for web development, with a strong emphasis on b
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SidneyRoberto9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Sid#9624" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sidneyroberto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<!-- 
+
 ### Badges
 
+[![wakatime](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg)](https://wakatime.com/@edab95c1-75d2-40e8-b459-02bfa3471095)
+![](https://komarev.com/ghpvc/?username=SidneyRoberto9&style=for-the-badge&color=blueviolet)
+<!-- 
 <b>My GitHub Stats</b>
 
 
@@ -44,5 +47,3 @@ I'm a programmer with a passion for web development, with a strong emphasis on b
 <a href="http://www.github.com/SidneyRoberto9"><img src="https://activity-graph.herokuapp.com/graph?username=SidneyRoberto9&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
-[![wakatime](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg?style=for-the-badge)](https://wakatime.com/@edab95c1-75d2-40e8-b459-02bfa3471095?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=SidneyRoberto9&style=for-the-badge&color=blueviolet)
