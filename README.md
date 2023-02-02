@@ -31,19 +31,15 @@ I'm a programmer with a passion for web development, with a strong emphasis on b
 
 <p align="left"> <a href="https://www.github.com/SidneyRoberto9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/Sid#9624" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sidneyroberto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-[![wakatime](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg)](https://wakatime.com/@edab95c1-75d2-40e8-b459-02bfa3471095)
-![](https://komarev.com/ghpvc/?username=SidneyRoberto9&style=for-the-badge&color=blueviolet)
-<!-- 
-<b>My GitHub Stats</b>
-
+### My GitHub Stats
 
 <a href="http://www.github.com/SidneyRoberto9"><img src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&hide=prs,issues,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="SidneyRoberto9's GitHub stats" /></a>
 
 <a href="http://www.github.com/SidneyRoberto9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyRoberto9&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### Badges
 
-<a href="http://www.github.com/SidneyRoberto9"><img src="https://activity-graph.herokuapp.com/graph?username=SidneyRoberto9&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
+[![wakatime](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg?style=for-the-badge)](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SidneyRoberto9&style=for-the-badge&color=blueviolet)
+
 
