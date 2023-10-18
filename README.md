@@ -6,7 +6,7 @@ I'm a programmer with a passion for web development, with a strong emphasis on b
 
 - 🌍  I'm based in João Pessoa, PB, Brazil
 - ✉️  You can contact me at [sidneyrpsilva@gmail.com](mailto:sidneyrpsilva@gmail.com)
-- ⚡  I'm Computer Science student and 22 years old
+- ⚡  I'm Computer Science student and 23 years old
 
 ### Skills
 
