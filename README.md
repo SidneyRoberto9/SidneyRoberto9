@@ -1,12 +1,12 @@
 # Hi 👋 My name is Sidney
 
-## Web developer
+## Web Developer
 
-I'm a programmer with a passion for web development, with a strong emphasis on back-end development, I am currently majoring in computer science and from time to time I challenge myself to develop platforms and websites to acquire more knowledge and deepen my knowledge in the area, my goal is to one day become a reference in the area.
+I'm a passionate web developer with a focus on back-end development. Recently graduated in Computer Science, I continually challenge myself by developing platforms and websites to expand my expertise. My goal is to become a reference in the field of web development.
 
 - 🌍  I'm based in João Pessoa, PB, Brazil
 - ✉️  You can contact me at [sidneyrpsilva@gmail.com](mailto:sidneyrpsilva@gmail.com)
-- ⚡  I'm Computer Science student and 23 years old
+- ⚡  I'm 24 years old and always looking for new challenges
 
 ### Skills
 
