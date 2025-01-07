@@ -25,9 +25,9 @@ I'm a passionate web developer with a focus on back-end development. Recently gr
 
 <div style="display: flex;align-items: center;justify-content: center;">
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SidneyRoberto9&stroke=ffffff&background=0d1117&ring=8a2be2&fire=8a2be2&currStreakNum=ffffff&currStreakLabel=8a2be2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=SidneyRoberto9&theme=midnight-purple&hide_border=true&card_height=258" alt="SidneyRoberto9's GitHub streak" />
 
-<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&hide=prs,issues,&count_private=true&title_color=8a2be2&text_color=ffffff&icon_color=6366f1&bg_color=0d1117&hide_border=true&show_icons=true" alt="SidneyRoberto9's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true" alt="SidneyRoberto9's GitHub stats" />
 
 </div>
 
