@@ -25,7 +25,7 @@ I'm a passionate web developer with a focus on back-end development. Recently gr
 
 <div style="display: flex;align-items: center;justify-content: center;">
 
-<img width="49.2%" src="https://streak-stats.demolab.com/?user=SidneyRoberto9&theme=midnight-purple&hide_border=true&card_height=258" alt="SidneyRoberto9's GitHub streak" />
+<img width="49.2%" src="https://nirzak-streak-stats.vercel.app/?user=sidneyroberto9&theme=midnight-purple&hide_border=true&card_height=258" alt="SidneyRoberto9's GitHub streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SidneyRoberto9&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true" alt="SidneyRoberto9's GitHub stats" />
 
